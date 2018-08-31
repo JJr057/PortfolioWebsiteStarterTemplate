@@ -1,9 +1,8 @@
-
-* {
+/** {
     border: 1px solid red !important;
 }
 
-* {
+*/ {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     -ms-box-sizing: border-box;
@@ -26,6 +25,18 @@
     width: 50%;
 }
 
+.col-1.2 {
+  size: 10%;
+}
+
 .col-2 {
     width: 100%;
+}
+
+.mainHeading {
+  text-align:right;
+}
+
+.what {
+  background-image: url(https://i.ytimg.com/vi/tISTO09N850/maxresdefault.jpg)
 }
