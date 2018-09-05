@@ -1,4 +1,4 @@
-/** {
+/* {
     border: 1px solid red !important;
 }
 
@@ -23,10 +23,6 @@
 
 .col-1 {
     width: 50%;
-}
-
-.col-1.2 {
-  size: 10%;
 }
 
 .col-2 {
